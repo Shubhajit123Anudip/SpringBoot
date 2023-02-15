@@ -34,10 +34,10 @@ public class SecondProjectApplication implements CommandLineRunner {
 //		
 //		System.out.println("----------------All are Saved---------------");
 
-		employeeRepository.save(new Employee("sifa", "wb", 12345L));
-		employeeRepository.save(new Employee("amitava", "chennai", 22345L));
-		employeeRepository.save(new Employee("Anju", "delhi", 12395L));
-		System.out.println("----------------All are Saved---------------");
+		employeeRepository.save(new Employee("suvo", "wb", 12345L));
+		employeeRepository.save(new Employee("amit", "chennai", 22345L));
+		employeeRepository.save(new Employee("suchi", "delhi", 12395L));
+		System.out.println("----------------All are Saved----------------");
 
 	}
 }
