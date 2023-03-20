@@ -1,0 +1,6 @@
+com\product\controller\ProductController.class
+com\product\ProductreadApplication.class
+com\product\controller\Another.class
+com\product\entity\Product.class
+com\product\entity\Product$ProductBuilder.class
+com\product\repository\ProductRepository.class
